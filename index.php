@@ -51,16 +51,16 @@
                         </button>
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav m-auto">
-                                <a href="index.html" class="nav-item nav-link active">Home</a>
-                                <a href="about.html" class="nav-item nav-link">About</a>
+                                <a href="index.php" class="nav-item nav-link active">Home</a>
+                                <a href="template/about.html" class="nav-item nav-link">About</a>
                                 <div class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                     <div class="dropdown-menu">
-                                        <a href="blog.html" class="dropdown-item">Blog Grid</a>
-                                        <a href="single.html" class="dropdown-item">Blog Detail</a>
+                                        <a href="template/blog.html" class="dropdown-item">Blog Grid</a>
+                                        <a href="template/single.html" class="dropdown-item">Blog Detail</a>
                                     </div>
                                 </div>
-                                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                                <a href="add.php" class="nav-item nav-link">Add article</a>
                             </div>
                         </div>
                     </nav>
